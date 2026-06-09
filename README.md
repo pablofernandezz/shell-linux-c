@@ -70,4 +70,3 @@ exit
 Pablo Fernández Martí
 LinkedIn: www.linkedin.com/in/pablo-fernandez-marti-526320415
 GitHub: @pablofernandezz
-This project was developed as part of the Computer Engineering degree curriculum at Universidade da Coruña (UDC).
