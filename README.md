@@ -35,7 +35,7 @@ You can install the build essentials on Ubuntu/Debian using:
 ```bash
 sudo apt update && sudo apt install build-essential
 ```
-Installation & Compilation
+## Installation & Compilation
 Clone the repository:
 ```bash
 git clone https://github.com/pablofernandezz/shell-linux-c.git
@@ -50,7 +50,7 @@ gcc -Wall -Wextra -O2 main.c -o custom_shell
 (Note: you can simply run make instead).
 ```
 
-💻 Usage
+## 💻 Usage
 Launch the shell by executing the compiled binary:
 
 ```bash
@@ -65,7 +65,8 @@ pwd
 help
 exit
 ```
-👨‍💻 Author
+
+## 👨‍💻 Author
 Pablo Fernández Martí
 LinkedIn: www.linkedin.com/in/pablo-fernandez-marti-526320415
 GitHub: @pablofernandezz
